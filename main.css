@@ -1,5 +1,5 @@
 body {
-    background: url(https://github.com/trish11953/trish11953.github.io/blob/main/antelopecanyon.jpg);
+    background: url('/img/antelopecanyon.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
